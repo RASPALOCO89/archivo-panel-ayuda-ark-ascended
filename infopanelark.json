@@ -1,121 +1,133 @@
 {
-  "WBUI2":
-  {
-    "settings":
-    {
-      "openbutton": 0,
-      "hideicon": false,
-      "hideiconafter": 60,
-      "iconurl": "https://i.imgur.com/EXuS9dP.png",
-      "disableicontext": true,
-      "iconposition": 0,
-      "icontextcolor": 0,
-      "openonstart": true,
-      "openonstartonlynewplayers": false,
-      "updateinterval": 12
-    },
-    "tabs": [
-      {
-        "layout": 1,
-        "buttontext": "NORMAS",
-        "imageurl": "https://i.imgur.com/lwxOuGq.png",
-        "content": [
-          {
-            "title": "NORMAS FRONTERA HISPANA",
-            "text": "-Prohibido usar el nombre Humano, Human, 123, etc.\n\n-Obligatorio Crear o Unirse a una Tribu.\n\n-Obligatorio dejar desbloqueadas bombas de aceite, grifos de savia, colectores de Gas, etc.\n\n-Se deben vaciar completamente los nidos de castores.\n\n-Prohibido tirar al suelo huevos de dragones, dragones de roca, etc. Si no quieres el huevo cometelo o usalo para kibbles.\n\n-Prohibido construir en: zonas de spawn de materiales, zonas de castores, caminos, cuevas de artefacto, etc.\n\n-Solo se permite una base por tribu. (Si tiene 2 bases porque se está mudando debe avisar por ticket a la administración, las mudanzas han de realizarse en un plazo de 72h como máximo). Se permitirá una zona de dinos acuaticos por tribu separada de la base.\n\n-Prohibido dejar estructuras regadas por el mapa, ya sean trampas, cimientos, pilares, etc.\n\n-No aprovecharse de bugs o fallos (Aprovecharlos y no notificarlos puede ser motivo de baneo).\n\n-Prohibido aparear dinos 450 de donación. (hacerlo será motivo de baneo).\n\n-No se tolerará ningún tipo de falta de respeto hacia ningún miembro de la comunidad.\n\n-Prohibido hacer spam de otros servidores (Ya sea dentro del juego, en Discord, como mensajes privados a otros jugadores).\n\n-Prohibido realizar acciones que impliquen daño intencionado a otro jugador.\n\n-Las normas pueden variar dependiendo de la necesidad del Servidor.\n\n-El desconocimiento de las normas no exime de su cumplimiento."
-          }
-        ]
-      },
-      {
-        "layout": 2,
-        "buttontext": "RULES",
-        "imageurl": "https://i.imgur.com/lwxOuGq.png",
-        "content": [
-          {
-            "title": "FRONTERA HISPANA RULES",
-            "text": "-Prohibited to use names like Human, Humano, 123, etc.\n\n-Mandatory to create or join a tribe.\n\n-Required to leave oil pumps, sap taps, gas collectors, etc., unlocked.\n\n-Beaver dams must be fully emptied.\n\n-Prohibited to drop dragon eggs, rock dragon eggs, etc., on the ground. If you don’t want the egg, eat it or use it for kibbles.\n\n-Prohibited to build in: resource spawn areas, beaver zones, paths, artifact caves, etc.\n\n-Only one base is allowed per tribe. (If you have two bases because you are relocating, you must notify the administration via ticket. Relocations must be completed within a maximum of 72 hours). One separate aquatic dino area is allowed per tribe.\n\n-Prohibited to leave scattered structures around the map, such as traps, foundations, pillars, etc.\n\n-Do not exploit bugs or glitches (Exploiting and not reporting them may lead to a ban).\n\n-Prohibited to breed donation dinos above level 450. (Doing so may lead to a ban).\n\n-No form of disrespect towards any community member will be tolerated.\n\n-Prohibited to spam other servers (This includes in-game, on Discord, or private messages to other players).\n\n-Prohibited to take actions that intentionally harm another player.\n\n-Rules may vary depending on the servers needs.\n\n-Ignorance of the rules does not exempt you from following them."
-          }
-        ]
-      },
-      {
-        "layout": 3,
-        "buttontext": "INFO SERVIDOR",
-        "imageurl": "https://i.imgur.com/mY7Y8oD.png",
-        "content": [
-          {
-            "title": "Características del Servidor",
-            "text": "<TextStyle.LightBlue>Server Features:</>\n\nWindows 10\n128GB RAM\nM.2 Disks\n\nMultipliers:\nx3 Taming\nx3 Experience\nx3 Harvesting\nx20 Breeding\n\nPlayer level without ascensions: 105\n\nMax dino levels:\nMax wild dino level: 150\nTamed dinos can gain 120 experience levels."
-          },
-          {
-            "title": "Decay de Estructuras",
-            "text": "<TextStyle.LightBlue>Structure Decay:</>\nThatch --------------- 8 days\nWood ------------- 16 days\nStone ------------- 24 days\nMetal -------------- 32 days\nTek ---------------- 40 days\n\nDino Decay:\n32 days"
-          },
-          {
-            "title": "Dinos S",
-            "text": "¿Diferencias de los Dinos S vs Dinos Vanilla?\n\nLos Dinos S tienen un +10% Daño de Ataque\n\nLos Dinos S tienen un +10% Velocidad de Movimiento\n\nLos Dinos S tienen un -10% Salud\n\nLos Ankylosaurios S ya no dejan de farmear después de alcanzar el 50% de peso (Pueden farmear hasta llenarse de peso por completo).\n\nLos Doedicurus S no dejan de farmear después de alcanzar el 50% de peso (Pueden farmear hasta llenarse de peso por completo).\n\nLos Carcha S no disponen del +10% Velocidad de Movimiento extra de los Dinos S.\n\nLos Daeodon S tiene las mismas características que un Rex y en lugar de curar da un pequeño Pisotón de daño en AREA.\n\nLos Oso S Tiene Reducción De Peso En Recursos Importantes."
-          },
-          {
-            "title": "Daño y Durabilidad de Objetos",
-            "text": "CAP DE ARMADURAS:\nTraje de Buceo: 782 de Durabilidad.\nTraje de Camuflaje: 451.4 de Armadura.\nTraje de Pelaje: 564.3 de Armadura.\nTraje de Metal: 1410.7 de Armadura.\nTraje de Antidisturbios: 1622.3 de Armadura.\n\nCAP DE ARMAS:\nTodas las armas y herramientas tienen 755.3 de daño máximo. (Exceptuando algunas armas de Mods)\n\nCAP DE MONTURAS:\nTodas las Monturas tienen 352.7 de Armadura máxima. (Exceptuando algunas monturas de Mods)"
-          }
-        ]
-      },
-      {
-        "layout": 4,
-        "buttontext": "DONACIONES",
-        "imageurl": "https://i.imgur.com/CBrt8r1.png",
-        "content": [
-          {
-            "title": "Donaciones Frontera Hispana",
-            "text": "<TextStyle.LightBlue>Donaciones Frontera Hispana:</>\n\nEn Frontera Hispana, todas las donaciones que recibimos son sin ánimo de lucro y están destinadas exclusivamente a cubrir los gastos y mejorar nuestros servidores. No buscamos obtener beneficios económicos, sino ofrecer una mejor experiencia de juego a toda nuestra comunidad.\n\n<TextStyle.LightBlue>Obsequios por Donaciones:</>\nPor cada donación, agradecemos el apoyo con un obsequio como muestra de aprecio por ayudar al mantenimiento y crecimiento de nuestros servidores. Recuerda que no se trata de una compra; es un agradecimiento por tu colaboración.\n\n<TextStyle.LightBlue>Al realizar una donación:</>\n1. Captura la donación: Toma una captura de pantalla del donativo realizado.\n2. Abre un ticket: Especifica en el ticket el tipo de dino que deseas recibir como obsequio.\n\nLos dinos que requieren montura ya vienen con una.\nPuedes elegir colores personalizados para dinos castrados obtenidos por donación (solicítalo en el ticket de la donación).\nCon una donación de 5€, también tienes la opción de improntar un dino de tu propiedad que aún no esté improntado.\n\n<TextStyle.LightBlue>Importante:</>\n<TextStyle.LightBlue>Responsabilidad de los Obsequios</>\nUna vez entregados, los dinos obtenidos por donación son responsabilidad del jugador. Esto incluye cualquier situación que cause su pérdida, ya sea por jugabilidad, fallos del juego, o bugs. La administración solo se hace responsable en caso de pérdidas derivadas de un rollback en el servidor.\n\n<TextStyle.LightBlue>Puedes acceder a la pagina de donaciones desde nuestra Pagina Web.</>"
-          }
-        ]
-      },
-      {
-        "layout": 5,
-        "buttontext": "TIENDA INGAME",
-        "imageurl": "https://i.imgur.com/tEzKDrr.png",
-        "content": [
-          {
-            "title": "INFO TIENDA INGAME",
-            "text": "La Tienda In-Game en Frontera Hispana te permite obtener y utilizar puntos para mejorar tu experiencia de juego. Aquí te explicamos cómo funciona:\n\n¿Cómo Ganas Puntos?\nPuntos por Tiempo de Juego: Ganas 5 puntos automáticamente por cada hora que juegas en el servidor. ¡Solo tienes que disfrutar del juego y tus puntos se acumularán!\n(Si cambias de mapa antes de que te aparezca el mensaje de que has recibido puntos, el tiempo transcurrido se reinicia ya que el juego detecta que has cambiado de mapa).\n\nCompra de Puntos:\nSi deseas acelerar tu progreso, puedes comprar puntos adicionales. Los paquetes de puntos están disponibles para ayudarte a conseguir recompensas especiales más rápidamente.\n\nPaquete VIP:\nAdquiere un paquete VIP para obtener beneficios exclusivos. Este paquete incluye puntos adicionales y recompensas únicas que no están disponibles para el resto de los jugadores.\n\n¿Qué Puedes Hacer con los Puntos?\nCompra de Ítems y Recompensas: En la tienda, puedes usar tus puntos para obtener ítems especiales, recursos, dinos, y otros beneficios que te ayudarán en tu aventura.\n\nRecuerda: ¡Los puntos se otorgan por tiempo de juego, así que mientras más juegas, más beneficios puedes acumular!"
-          }
-        ]
-      },
-      {
-        "layout": 6,
-        "buttontext": "AYUDA TIENDA",
-        "imageurl": "https://i.imgur.com/tEzKDrr.png",
-        "content": [
-          {
-            "title": "AYUDA TIENDA INGAME PARA CONSOLAS",
-            "text": "Los usuarios de consolas deben acceder a la tienda mediante el chat de texto utilizando los siguientes comandos:\n\n/tienda\n(este comando le muestra la lista de objetos de la tienda)\nEjemplo de como se vería un item en la tienda: Artefacto del Cazador id: crate1 precio:100\n\n/comprar\n(este comando le permite comprar objetos en la tienda)\n(El comando para comprar un item sería: /comprar id cantidad)\n(Descripción del comando: /comprar id del objeto a comprar y la cantidad de objetos que desee comprar)\nEjemplo: /comprar crate1 1\n\n/kit\n(este comando le muestra los kits que están disponibles en la tienda para comprar)\nEjemplo de como se vería un kit en la tienda: "grifobuho1" Grifo Buho LVL 225 Castrado (Incluye Montura). 0 restantes. Precio: 1000\n\n/comprarkit\n(este comando le permite comprar kits en la tienda)\n(El comando para comprar un item sería: /comprarkit id cantidad)\n(Descripción del comando: /comprarkit nombre del kit, suele estar entre comillas y la cantidad de objetos que desee comprar)\nEjemplo: /comprarkit grifobuho1 1\n\nComo usar un kit una vez comprado:\nDebes utilizar el comando /kit y el nombre del kit comprado.\nEjemplo: /kit grifobuho1\n\n/creditos\n(este comando le muestra la cantidad de créditos de los cuales dispone)\n\nSi tienes alguna duda al respecto, no dudes en abrir un ticket; te explicaremos cualquier duda que se te ocurra al respecto."
-          }
-        ]
-      }
-    ],
-    "links": [
-      {
-        "text": "Discord",
-        "url": "https://discord.gg/AQ5nNSYpaE"
-      },
-      {
-        "text": "Pagina Web",
-        "url": "https://fronterahispana.wixsite.com/fronterahispana/dona"
-      },
-      {
-        "text": "Moneda Ingame",
-        "url": "https://frontera-hispana.tebex.io/category/monedas"
-      },
-      {
-        "text": "Membresía VIP",
-        "url": "https://frontera-hispana.tebex.io/category/membresia-vip"
-      },
-      {
-        "text": "Canal Youtube",
-        "url": "https://www.youtube.com/@Fronterahispana"
-      }
-    ],
-    "version": 2
-  }
+	"WBUI2":
+	{
+		"settings":
+		{
+			"openbutton": 0,
+			"hideicon": true,
+			"hideiconafter": 60,
+			"iconurl": "https://i.imgur.com/EXuS9dP.png",
+			"disableicontext": true,
+			"iconposition": 0,
+			"icontextcolor": 0,
+			"openonstart": true,
+			"openonstartonlynewplayers": false,
+			"updateinterval": 12
+		},
+		"tabs": [
+			{
+				"layout": 1,
+				"buttontext": "NORMAS",
+				"imageurl": "https://i.imgur.com/lwxOuGq.png",
+				"content": [
+					{
+						"title": "NORMAS FRONTERA HISPANA",
+						"text": "-Prohibido usar el nombre Humano, Human, 123, etc.\r\n\r\n-Obligatorio Crear o Unirse a una Tribu.\r\n\r\n-Obligatorio dejar desbloqueadas bombas de aceite, grifos de savia, colectores de Gas, etc.\r\n\r\n-Se deben vaciar completamente los nidos de castores.\r\n\r\nProhibido tirar al suelo huevos de dragones, dragones de roca, etc. Si no quieres el huevo cometelo o usalo para kibbles.\r\n\r\n-Prohibido construir en: zonas de spawn de materiales, zonas de castores, caminos, cuevas de artefacto, etc.\r\n\r\n-Solo se permite una base por tribu. (Si tiene 2 bases porque se está mudando debe avisar por ticket a la administración, las mudanzas han de realizarse en un plazo de 72h como máximo). Se permitirá una zona de dinos acuaticos por tribu separada de la base.\r\n\r\n-Prohibido dejar estructuras regadas por el mapa, ya sean trampas, cimientos, pilares, etc.\r\n\r\n-No aprovecharse de bugs o fallos (Aprovecharlos y no notificarlos puede ser motivo de baneo).\r\n\r\nProhibido aparear dinos 450 de donación. (hacerlo será motivo de baneo).\r\n\r\n-No se tolerará ningún tipo de falta de respeto hacia ningún miembro de la comunidad.\r\n\r\n-Prohibido hacer spam de otros servidores (Ya sea dentro del juego, en Discord, como mensajes privados a otros jugadores).\r\n\r\n-Prohibido realizar acciones que impliquen daño intencionado a otro jugador.\r\n\r\n-Las normas pueden variar dependiendo de la necesidad del Servidor.\r\n\r\n-El desconocimiento de las normas no exime de su cumplimiento."
+					}
+				]
+			},
+			{
+				"layout": 1,
+				"buttontext": "RULES",
+				"imageurl": "https://i.imgur.com/lwxOuGq.png",
+				"content": [
+					{
+						"title": "FRONTERA HISPANA RULES",
+						"text": "-Forbidden to use the names Human, Human, 123, etc.\r\n\r\n-Mandatory to Create or Join a Tribe.\r\n\r\n-Mandatory to leave oil pumps, sap taps, Gas collectors, etc. unblocked.\r\n\r\n-Beaver nests must be completely emptied.\r\n\r\nIt is forbidden to throw dragon eggs, rock dragons, etc. on the ground. If you don't want the egg eat it or use it for kibbles.\r\n\r\n-Forbidden to build in: material spawn areas, beaver areas, roads, artifact caves, etc.\r\n\r\n-Only one base per tribe is allowed (If you have 2 bases because you are moving you must notify by ticket to the administration, the moves must be done within 72h maximum). One aquatic dino area per tribe will be allowed separate from the base.\r\n\r\n-It is forbidden to leave structures scattered around the map, be it traps, foundations, pillars, etc.\r\n\r\n-Do not take advantage of bugs or failures (taking advantage of them and not notifying them can be reason for banning).\r\n\r\nIt is forbidden to pair 450 donation dinos (doing so will be cause for banning).\r\n\r\n-No disrespect towards any member of the community will be tolerated.\r\n\r\n-It is forbidden to spam other servers (either within the game, in Discord, as private messages to other players).\r\n\r\n-Forbidden to perform actions that involve intentional harm to another player.\r\n\r\n-The rules may vary depending on the need of the server.\r\n\r\n-Ignorance of the rules does not exempt from compliance.\r\n\r\nTranslated with DeepL.com (free version)"
+					},
+					{
+						"title": "Decay de Estructuras",
+						"text": "<TextStyle.LightBlue>Decay de Estructuras:</>\r\nPaja --------------- 8 días\r\nMadera ------------- 16 días\r\npiedra ------------- 24 días\r\nmetal -------------- 32 días\r\ntek ---------------- 40 días\r\n\r\nDecay Dinos:\r\n32 días"
+					},
+					{
+						"title": "",
+						"text": ""
+					}
+				]
+			},
+			{
+				"layout": 4,
+				"buttontext": "INFO SERVIDOR",
+				"imageurl": "https://i.imgur.com/mY7Y8oD.png",
+				"content": [
+					{
+						"title": "Características del Servidor",
+						"text": "<TextStyle.LightBlue>Características del Servidor:</>\r\n\r\nWindows 10\r\n128GB de RAM\r\nDiscos M.2\r\n\r\nMultiplicadores:\r\nx3 Tameo\r\nx3 Experiencia\r\nx3 Farmeo\r\nx20 Crianza\r\n\r\nNivel de jugador sin ascensiones: 105\r\n\r\nNivel máximo de los dinos:\r\nNivel máximo de dinos salvajes: 150\r\nLos dinos tameados pueden subir 120 niveles de experiencia."
+					},
+					{
+						"title": "Decay de Estructuras",
+						"text": "<TextStyle.LightBlue>Decay de Estructuras:</>\r\nPaja --------------- 8 días\r\nMadera ------------- 16 días\r\npiedra ------------- 24 días\r\nmetal -------------- 32 días\r\ntek ---------------- 40 días\r\n\r\nDecay Dinos:\r\n32 días"
+					},
+					{
+						"title": "Dinos S",
+						"text": "¿Diferencias de los Dinos S vs Dinos Vanila?\r\n\r\nLos Dinos S tienen un +10% Daño de Ataque\r\n\r\nLos Dinos S tienen un +10% Velocidad de Movimiento\r\n\r\nLos Dinos S tienen un -10% Salud\r\n\r\nLos Ankylosaurios S ya no dejan de farmear después de alcanzar el 50% de peso (Pueden farmear hasta llenarse de peso por completo).\r\n\r\nLos Doedicurus S no dejan de farmear después de alcanzar el 50% de peso (Pueden farmear hasta llenarse de peso por completo).\r\n\r\nLos Carcha S no disponen del +10% Velocidad de Movimiento extra de los Dinos S.\r\n\r\nLos Daeodon S tiene las mismas características que un Rex y en lugar de curar da un pequeño Pisotón de daño en AREA.\r\n\r\nLos Oso S Tiene Reducción De Peso En Recursos Importantes."
+					},
+					{
+						"title": "Daño y Durabilidad de Objetos",
+						"text": "CAP DE ARMADURAS:\r\nTraje de Buceo: 782 de Durabilidad.\r\nTraje de Camuflaje: 451.4 de Armadura.\r\nTraje de Pelaje: 564.3 de Armadura.\r\nTraje de Metal: 1410.7 de Armadura.\r\nTraje de Antidisturbios: 1622.3 de Armadura.\r\n\r\nCAP DE ARMAS:\r\nTodas las armas y herramientas tienen 755.3 de daño máximo. (Exceptuando algunas armas de Mods)\r\n\r\nCAP DE MONTURAS:\r\nTodas las Monturas tienen 352.7 de Armadura máxima. (Exceptuando algunas monturas de Mods)"
+					}
+				]
+			},
+			{
+				"layout": 1,
+				"buttontext": "DONACIONES",
+				"imageurl": "https://i.imgur.com/CBrt8r1.png",
+				"content": [
+					{
+						"title": "Donaciones Frontera Hispana",
+						"text": "<TextStyle.LightBlue>Donaciones Frontera Hispana:</>\r\n\r\nEn Frontera Hispana, todas las donaciones que recibimos son sin ánimo de lucro y están destinadas exclusivamente a cubrir los gastos y mejorar nuestros servidores. No buscamos obtener beneficios económicos, sino ofrecer una mejor experiencia de juego a toda nuestra comunidad.\r\n\r\n<TextStyle.LightBlue>Obsequios por Donaciones:</>\r\nPor cada donación, agradecemos el apoyo con un obsequio como muestra de aprecio por ayudar al mantenimiento y crecimiento de nuestros servidores. Recuerda que no se trata de una compra; es un agradecimiento por tu colaboración.\r\n\r\n<TextStyle.LightBlue>Al realizar una donación:</>\r\n1. Captura la donación: Toma una captura de pantalla del donativo realizado.\r\n2. Abre un ticket: Especifica en el ticket el tipo de dino que deseas recibir como obsequio.\r\n\r\nLos dinos que requieren montura ya vienen con una.\r\nPuedes elegir colores personalizados para dinos castrados obtenidos por donación (solicítalo en el ticket de la donación).\r\nCon una donación de 5€, también tienes la opción de improntar un dino de tu propiedad que aún no esté improntado.\r\n\r\n<TextStyle.LightBlue>Importante:</>\r\n<TextStyle.LightBlue>Responsabilidad de los Obsequios</>\r\nUna vez entregados, los dinos obtenidos por donación son responsabilidad del jugador. Esto incluye cualquier situación que cause su pérdida, ya sea por jugabilidad, fallos del juego, o bugs. La administración solo se hace responsable en caso de pérdidas derivadas de un rollback en el servidor.\r\n\r\n<TextStyle.LightBlue>Puedes acceder a la pagina de donaciones desde nuestra Pagina Web.</>"
+					}
+				]
+			},
+			{
+				"layout": 1,
+				"buttontext": "TIENDA INGAME",
+				"imageurl": "https://i.imgur.com/tEzKDrr.png",
+				"content": [
+					{
+						"title": "INFO TIENDA INGAME",
+						"text": "La Tienda In-Game en Frontera Hispana te permite obtener y utilizar puntos para mejorar tu experiencia de juego. Aquí te explicamos cómo funciona:\r\n\r\nPuedes abrir la tienda In-Game con la tecla F3, manteniendo la tecla R precionada, en consolas manteniendo pulsado el botón Cuadrado.\r\n\r\n¿Cómo Ganas Puntos?\r\nPuntos por Tiempo de Juego: Ganas 5 puntos automáticamente por cada hora que juegas en el servidor. ¡Solo tienes que disfrutar del juego y tus puntos se acumularán!\r\n(Si cambias de mapa antes de que te aperezca el mensaje de que has recibido puntos el tiempo transcurrido se reinicia ya que el juego detecta que has cambiado de mapa).\r\n\r\nCompra de Puntos: \r\nSi deseas acelerar tu progreso, puedes comprar puntos adicionales. Los paquetes de puntos están disponibles para ayudarte a conseguir recompensas especiales más rápidamente.\r\n\r\nPaquete VIP: \r\nAdquiere un paquete VIP para obtener beneficios exclusivos. Este paquete incluye puntos adicionales y recompensas únicas que no están disponibles para el resto de los jugadores.\r\n\r\n¿Qué Puedes Hacer con los Puntos?\r\nCompra de Ítems y Recompensas: En la tienda, puedes usar tus puntos para obtener ítems especiales, recursos, dinos, y otros beneficios que te ayudarán en tu aventura.\r\n\r\n\r\nRecuerda: ¡Los puntos se otorgan por tiempo de juego, así que mientras más juegas, más beneficios puedes acumular!"
+					},
+					{
+						"title": "TIENDA INGAME CONSOLAS",
+						"text": ""
+					}
+				]
+			},
+			{
+				"layout": 1,
+				"buttontext": "AYUDA TIENDA",
+				"imageurl": "https://i.imgur.com/tEzKDrr.png",
+				"content": [
+					{
+						"title": "AYUDA TIENDA INGAME PARA CONSOLAS",
+						"text": "Los usuarios de consolas deben acceder a la tienda mediante el chat de texto utilizando los siguientes comandos:\r\n\r\n/tienda\r\n(este comando le muestra los objetos de la tienda)\r\n\r\n/comprar\r\n(este comando le permite comprar objetos en la tienda)\r\n\r\n/kit\r\n(este comando le muestra los kits que estan disponibles en la tienda para comprar)\r\n\r\n/comprarkit\r\n(este comando le permite comprar kits en la tienda)\r\n\r\n/creditos\r\n(este comando le muestra la cantidad de creditos del cual dispone)\r\n\r\n"
+					}
+				]
+			}
+		],
+		"links": [
+			{
+				"text": "Discord",
+				"url": "https://discord.gg/AQ5nNSYpaE"
+			},
+			{
+				"text": "Pagina Web",
+				"url": "https://fronterahispana.wixsite.com/fronterahispana/dona"
+			},
+			{
+				"text": "Moneda Ingame",
+				"url": "https://frontera-hispana.tebex.io/category/monedas"
+			},
+			{
+				"text": "Membresía VIP",
+				"url": "https://frontera-hispana.tebex.io/category/membresia-vip"
+			},
+			{
+				"text": "Canal Youtube",
+				"url": "https://www.youtube.com/@Fronterahispana"
+			}
+		],
+		"version": 2
+	}
 }
