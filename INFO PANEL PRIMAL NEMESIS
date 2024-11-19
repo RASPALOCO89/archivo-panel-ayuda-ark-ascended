@@ -95,6 +95,10 @@
 			{
 				"text": "Comprar Monedas",
 				"url": "https://frontera-hispana.tebex.io/category/monedas"
+			},
+			{
+				"text": "GUIA NEMESIS",
+				"url": "https://docs.google.com/document/d/19D9XS6yuHSWt6vEi57hU0I44-sG75hrh1BWEuExmt4w/edit?usp=sharing"
 			}
 		],
 		"version": 2
