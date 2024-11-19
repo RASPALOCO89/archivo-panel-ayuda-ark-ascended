@@ -46,16 +46,16 @@
 				]
 			},
 			{
-				"layout": 4,
-				"buttontext": "GUIA PRIMAL NEMESIS",
-				"imageurl": "https://i.imgur.com/mY7Y8oD.png",
-				"content": [
-					{
-						"title": "Guía de Primal Nemesis:",
-						"text": "En la guía de Primal Nemesis encontrarás toda la información sobre cómo proceder en el mod.\nEsta guía ha sido traducida al español, por lo que es posible que algunos nombres de ítems o dinos no coincidan exactamente con los utilizados en el juego debido a la traducción.\n\nPara acceder a la guía, simplemente haz clic en el botón "GUIA NEMESIS" ubicado en la parte inferior de esta página.\nAhí podrás consultar todos los detalles y pasos necesarios para disfrutar del mod."
-."
-					}
-				]
+				{
+   				"layout": 1,
+  				"buttontext": "GUIA PRIMAL NEMESIS",
+    				"imageurl": "https://i.imgur.com/mY7Y8oD.png",
+    				"content": [
+       					{
+            					"title": "Guía de Primal Nemesis:",
+            					"text": "En la guía de Primal Nemesis encontrarás toda la información sobre cómo proceder en el mod.\r\n\r\nEsta guía ha sido traducida al español, por lo que es posible que algunos nombres de ítems o dinos no coincidan exactamente con los utilizados en el juego debido a la traducción.\r\n\r\nPara acceder a la guía, simplemente haz clic en el botón \"GUIA NEMESIS\" ubicado en la parte inferior de esta página.\r\n\r\nAhí podrás consultar todos los detalles y pasos necesarios para disfrutar del mod."
+        				}
+    				]
 			},
 			{
 				"layout": 1,
