@@ -56,7 +56,7 @@
 				"content": [
 					{
 						"title": "Donaciones Frontera Hispana",
-						"text": "<TextStyle.LightBlue>Donaciones Frontera Hispana:</>\r\n\r\nEn Frontera Hispana, todas las donaciones que recibimos son sin ánimo de lucro y están destinadas exclusivamente a cubrir los gastos y mejorar nuestros servidores. No buscamos obtener beneficios económicos, sino ofrecer una mejor experiencia de juego a toda nuestra comunidad.\r\n\r\n<TextStyle.LightBlue>Obsequios por Donaciones:</>\r\nPor cada donación, agradecemos el apoyo con un obsequio como muestra de aprecio por ayudar al mantenimiento y crecimiento de nuestros servidores. Recuerda que no se trata de una compra; es un agradecimiento por tu colaboración.\r\n\r\n<TextStyle.LightBlue>Al realizar una donación:</>\r\n1. Captura la donación: Toma una captura de pantalla del donativo realizado.\r\n2. Abre un ticket: Especifica en el ticket el tipo de dino que deseas recibir como obsequio.\r\n\r\nLos dinos que requieren montura ya vienen con una.\r\nPuedes elegir colores personalizados para dinos castrados obtenidos por donación (solicítalo en el ticket de la donación).\r\nCon una donación de 5€, también tienes la opción de improntar un dino de tu propiedad que aún no esté improntado.\r\n\r\n<TextStyle.LightBlue>Importante:</>\r\n<TextStyle.LightBlue>Responsabilidad de los Obsequios</>\r\nUna vez entregados, los dinos obtenidos por donación son responsabilidad del jugador. Esto incluye cualquier situación que cause su pérdida, ya sea por jugabilidad, fallos del juego, o bugs. La administración solo se hace responsable en caso de pérdidas derivadas de un rollback en el servidor.\r\n\r\n<TextStyle.LightBlue>Puedes acceder a la pagina de donaciones desde nuestra Pagina Web.</>"
+						"text": "<TextStyle.LightBlue>Donaciones Frontera Hispana:</>\r\n\r\n<TextStyle.LightBlue>1. Donación mediante PayPal:</>\r\nPasos para los jugadores:\r\nRealiza tu donación en PayPal utilizando el botón PAYPAL de la parte inferior.\r\nToma una captura de pantalla del pago realizado.\r\n\r\nAbre un ticket en nuestro Discord e incluye:\r\nTu EOSID (puedes obtenerlo manteniendo pulsada la tecla R y seleccionando la opción EOS ID HELPER).\r\nEl mapa donde juegas: Primal Nemesis.\r\nLa cantidad de puntos a recibir (según la donación).\r\nUn administrador revisará el ticket y añadirá tus puntos lo antes posible.\r\n¡Gracias por apoyar nuestro servidor!\r\n\r\n\r\n<TextStyle.LightBlue>2. Donación mediante Bizum:</>\r\nPasos para los jugadores:\r\nRealiza un pago mediante Bizum al número: 601265252\r\nSi estás fuera de España, agrega el código del país: +34 601265252.\r\nToma una captura de pantalla del pago realizado.\r\n\r\nAbre un ticket en nuestro Discord e incluye:\r\nTu EOSID (puedes obtenerlo manteniendo pulsada la tecla R y seleccionando la opción EOS ID HELPER).\r\nEl mapa donde juegas: Primal Nemesis.\r\nLa cantidad de puntos a recibir (según el monto donado).\r\nUn administrador revisará el ticket y añadirá tus puntos lo antes posible.\r\n¡Gracias por tu contribución!\r\n\r\n\r\n<TextStyle.LightBlue>3. Donación automática mediante Tebex:</>\r\nSi deseas acelerar tu progreso, puedes comprar créditos de forma automática sin necesidad de interactuar con un administrador.\r\n\r\nPrecios de las monedas:\r\n1000 Créditos por 5.00 EUR\r\n3000 Créditos por 12.50 EUR\r\n5000 Créditos por 22.00 EUR\r\n10000 Créditos por 38.00 EUR\r\n\r\nPara utilizar este método:\r\nHaz clic en el botón ADQUIRIR CREDITOS ubicado en la parte inferior de este menú.\r\nAl realizar la compra, recibirás un código único, similar a este:\r\ntbx-70332224a63202-2169b8.\r\n\r\nPara canjear tus créditos:\r\nEscribe el siguiente comando en el chat del juego:\r\n/redeem seguido del código que recibiste.\r\nEjemplo:\r\n/redeem tbx-70332224a63202-2169b8  \r\n"
 					}
 				]
 			},
@@ -93,8 +93,12 @@
 				"url": "https://discord.gg/AQ5nNSYpaE"
 			},
 			{
-				"text": "Comprar Monedas",
+				"text": "ADQUIRIR CREDITOS",
 				"url": "https://frontera-hispana.tebex.io/category/monedas"
+			},
+			{
+				"text": "PAYPAL",
+				"url": "https://www.paypal.com/paypalme/RASPALOCO89?country.x=ES&locale.x=es_ES"
 			},
 			{
 				"text": "GUIA NEMESIS",
