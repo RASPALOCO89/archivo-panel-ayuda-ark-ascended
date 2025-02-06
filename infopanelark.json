@@ -21,7 +21,7 @@
 				"imageurl": "https://i.imgur.com/lwxOuGq.png",
 				"content": [
 					{
-						"title": "NORMAS FRONTERA HISPANA",
+						"title": "INFORMACION SOBRE VOTACIONES",
 						"text": "-Prohibido usar el nombre Humano, Human, 123, etc.\r\n\r\n-Obligatorio Crear o Unirse a una Tribu.\r\n\r\n-Obligatorio dejar desbloqueadas bombas de aceite, grifos de savia, colectores de Gas, etc.\r\n\r\n-Se deben vaciar completamente los nidos de castores.\r\n\r\nProhibido tirar al suelo huevos de dragones, dragones de roca, etc. Si no quieres el huevo cometelo o usalo para kibbles.\r\n\r\n-Prohibido construir en: zonas de spawn de materiales, zonas de castores, caminos, cuevas de artefacto, etc.\r\n\r\n-Solo se permite una base por tribu. (Si tiene 2 bases porque se está mudando debe avisar por ticket a la administración, las mudanzas han de realizarse en un plazo de 72h como máximo). Se permitirá una zona de dinos acuaticos por tribu separada de la base.\r\n\r\n-Prohibido dejar estructuras regadas por el mapa, ya sean trampas, cimientos, pilares, etc.\r\n\r\n-No aprovecharse de bugs o fallos (Aprovecharlos y no notificarlos puede ser motivo de baneo).\r\n\r\nProhibido aparear dinos 450 de donación. (hacerlo será motivo de baneo).\r\n\r\n-No se tolerará ningún tipo de falta de respeto hacia ningún miembro de la comunidad.\r\n\r\n-Prohibido hacer spam de otros servidores (Ya sea dentro del juego, en Discord, como mensajes privados a otros jugadores).\r\n\r\n-Prohibido realizar acciones que impliquen daño intencionado a otro jugador.\r\n\r\n-Las normas pueden variar dependiendo de la necesidad del Servidor.\r\n\r\n-El desconocimiento de las normas no exime de su cumplimiento."
 					}
 				]
@@ -46,13 +46,13 @@
 				]
 			},
 			{
-				"layout": 4,
-				"buttontext": "INFO SERVIDOR",
+				"layout": 1,
+				"buttontext": "INFO VOTACIONES",
 				"imageurl": "https://i.imgur.com/mY7Y8oD.png",
 				"content": [
 					{
 						"title": "Características del Servidor",
-						"text": "<TextStyle.LightBlue>Características del Servidor:</>\r\n\r\nWindows 10\r\n128GB de RAM\r\nDiscos M.2\r\n\r\nMultiplicadores:\r\nx3 Tameo\r\nx3 Experiencia\r\nx3 Farmeo\r\nx20 Crianza\r\n\r\nNivel de jugador sin ascensiones: 105\r\n\r\nNivel máximo de los dinos:\r\nNivel máximo de dinos salvajes: 150\r\nLos dinos tameados pueden subir 120 niveles de experiencia."
+						"text": "<TextStyle.LightBlue>¡Vota por el servidor y consigue increíbles recompensas!</>\r\n\r\n<TextStyle.LightBlue>¿Por qué es importante votar?</>\r\nCada voto nos ayuda a subir en los rankings de servidores, atrayendo a más jugadores y fortaleciendo nuestra comunidad. ¡Mientras más votos recibamos, más creceremos juntos!\r\n\r\n<TextStyle.LightBlue>¿Cómo funcionan las votaciones?</>\r\nLas votaciones se reinician cada mes, por lo que es fundamental votar todos los días en las dos páginas web. ¡Cada voto cuenta!\r\n\r\n<TextStyle.LightBlue>Recompensas por votar:</>\r\nMás de 25 votos mensuales en cada página (50 en total) → 1 moneda especial (equivalente a 500 puntos en la tienda in-game).\r\n<TextStyle.LightBlue>Premio especial TOP 3 votantes:</>\r\nAl final del mes, se sumarán los puntos de ambas páginas, y los tres jugadores con más votos recibirán un Dino Alfa exclusivo de votaciones (Nivel 450, castrado). ¡Solo los más dedicados podrán obtenerlo!\r\n\r\n¡Tu apoyo es clave para que nuestra comunidad siga creciendo! No olvides votar todos los días y reclama tus recompensas.\r\n\r\nPuedes encontrar los enlaces de votación en nuestro discord en el apartado Votaciones o bien seleccionando el botón Votar en la parte inferior de este menú."
 					},
 					{
 						"title": "Decay de Estructuras",
@@ -86,8 +86,7 @@
 				"content": [
 					{
 						"title": "INFO TIENDA INGAME",
-						"text": "La Tienda In-Game en Frontera Hispana te permite obtener y utilizar puntos para mejorar tu experiencia de juego. Aquí te explicamos cómo funciona:\n\nPuedes abrir la tienda In-Game con la tecla F3, manteniendo la tecla R presionada, en consolas manteniendo pulsado el botón Cuadrado.\n\n¿Cómo Ganas Puntos?\nPuntos por Tiempo de Juego: Ganas 5 puntos automáticamente por cada hora que juegas en el servidor. ¡Solo tienes que disfrutar del juego y tus puntos se acumularán!\n(Si cambias de mapa antes de que te aparezca el mensaje de que has recibido puntos, el tiempo transcurrido se reinicia ya que el juego detecta que has cambiado de mapa).\n\nCompra de Puntos:\nSi deseas acelerar tu progreso, puedes comprar puntos adicionales. Los paquetes de puntos están disponibles para ayudarte a conseguir recompensas especiales más rápidamente.\nNota: Al realizar una compra, recibirás un código único como este: tbx-70332224a63202-2169b8.\nPara reclamar tus puntos, debes escribir en el chat del juego el comando /redeem seguido del código recibido. Por ejemplo:\n    /redeem tbx-70332224a63202-2169b8\n\nPaquete VIP:\nAdquiere un paquete VIP para obtener beneficios exclusivos. Este paquete incluye puntos adicionales y recompensas únicas que no están disponibles para el resto de los jugadores.\nNota: Al adquirir un paquete VIP, también recibirás un código que deberás canjear usando el comando /redeem tal como se explica anteriormente.\n\n¿Qué Puedes Hacer con los Puntos?\nCompra de Ítems y Recompensas: En la tienda, puedes usar tus puntos para obtener ítems especiales, recursos, dinos, y otros beneficios que te ayudarán en tu aventura.\n\nRecuerda: ¡Los puntos se otorgan por tiempo de juego, así que mientras más juegas, más beneficios puedes acumular!
-"
+						"text": "La Tienda In-Game en Frontera Hispana te permite obtener y utilizar puntos para mejorar tu experiencia de juego. Aquí te explicamos cómo funciona:\n\nPuedes abrir la tienda In-Game con la tecla F3, manteniendo la tecla R presionada, en consolas manteniendo pulsado el botón Cuadrado.\n\n¿Cómo Ganas Puntos?\nPuntos por Tiempo de Juego: Ganas 5 puntos automáticamente por cada hora que juegas en el servidor. ¡Solo tienes que disfrutar del juego y tus puntos se acumularán!\n(Si cambias de mapa antes de que te aparezca el mensaje de que has recibido puntos, el tiempo transcurrido se reinicia ya que el juego detecta que has cambiado de mapa).\n\nCompra de Puntos:\nSi deseas acelerar tu progreso, puedes comprar puntos adicionales. Los paquetes de puntos están disponibles para ayudarte a conseguir recompensas especiales más rápidamente.\nNota: Al realizar una compra, recibirás un código único como este: tbx-70332224a63202-2169b8.\nPara reclamar tus puntos, debes escribir en el chat del juego el comando /redeem seguido del código recibido. Por ejemplo:\n    /redeem tbx-70332224a63202-2169b8\n\nPaquete VIP:\nAdquiere un paquete VIP para obtener beneficios exclusivos. Este paquete incluye puntos adicionales y recompensas únicas que no están disponibles para el resto de los jugadores.\nNota: Al adquirir un paquete VIP, también recibirás un código que deberás canjear usando el comando /redeem tal como se explica anteriormente.\n\n¿Qué Puedes Hacer con los Puntos?\nCompra de Ítems y Recompensas: En la tienda, puedes usar tus puntos para obtener ítems especiales, recursos, dinos, y otros beneficios que te ayudarán en tu aventura.\n\nRecuerda: ¡Los puntos se otorgan por tiempo de juego, así que mientras más juegas, más beneficios puedes acumular!\n"
 					},
 					{
 						"title": "TIENDA INGAME CONSOLAS",
@@ -125,8 +124,8 @@
 				"url": "https://frontera-hispana.tebex.io/category/membresia-vip"
 			},
 			{
-				"text": "Canal Youtube",
-				"url": "https://www.youtube.com/@Fronterahispana"
+				"text": "Votar",
+				"url": "https://discord.com/channels/601428218695647273/1337063550723686461"
 			}
 		],
 		"version": 2
