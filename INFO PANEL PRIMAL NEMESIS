@@ -26,55 +26,18 @@
 					}
 				]
 			},
-			{
-				"layout": 1,
-				"buttontext": "GUIA PRIMAL NEMESIS",
-				"imageurl": "https://i.imgur.com/mY7Y8oD.png",
-				"content": [
-					{
-						"title": "Guía de Primal Nemesis:",
-						"text": "En la guía de Primal Nemesis encontrarás toda la información sobre cómo proceder en el mod. Esta guía ha sido traducida al español, por lo que es posible que algunos nombres de ítems o dinos no coincidan exactamente con los utilizados en el juego debido a la traducción.\r\n\r\nPara acceder a la guía, simplemente haz clic en el botón \"GUIA NEMESIS\" ubicado en la parte inferior de esta página. Ahí podrás consultar todos los detalles y pasos necesarios para disfrutar del mod."
-					},
-					{
-						"title": "Decay de Estructuras",
-						"text": "<TextStyle.LightBlue>Decay de Estructuras:</>\r\nPaja --------------- 8 días\r\nMadera ------------- 16 días\r\npiedra ------------- 24 días\r\nmetal -------------- 32 días\r\ntek ---------------- 40 días\r\n\r\nDecay Dinos:\r\n32 días"
-					},
-					{
-						"title": "Dinos S",
-						"text": "¿Diferencias de los Dinos S vs Dinos Vanila?\r\n\r\nLos Dinos S tienen un +10% Daño de Ataque\r\n\r\nLos Dinos S tienen un +10% Velocidad de Movimiento\r\n\r\nLos Dinos S tienen un -10% Salud\r\n\r\nLos Ankylosaurios S ya no dejan de farmear después de alcanzar el 50% de peso (Pueden farmear hasta llenarse de peso por completo).\r\n\r\nLos Doedicurus S no dejan de farmear después de alcanzar el 50% de peso (Pueden farmear hasta llenarse de peso por completo).\r\n\r\nLos Carcha S no disponen del +10% Velocidad de Movimiento extra de los Dinos S.\r\n\r\nLos Daeodon S tiene las mismas características que un Rex y en lugar de curar da un pequeño Pisotón de daño en AREA.\r\n\r\nLos Oso S Tiene Reducción De Peso En Recursos Importantes."
-					},
-					{
-						"title": "Daño y Durabilidad de Objetos",
-						"text": "CAP DE ARMADURAS:\r\nTraje de Buceo: 782 de Durabilidad.\r\nTraje de Camuflaje: 451.4 de Armadura.\r\nTraje de Pelaje: 564.3 de Armadura.\r\nTraje de Metal: 1410.7 de Armadura.\r\nTraje de Antidisturbios: 1622.3 de Armadura.\r\n\r\nCAP DE ARMAS:\r\nTodas las armas y herramientas tienen 755.3 de daño máximo. (Exceptuando algunas armas de Mods)\r\n\r\nCAP DE MONTURAS:\r\nTodas las Monturas tienen 352.7 de Armadura máxima. (Exceptuando algunas monturas de Mods)"
-					}
-				]
-			},
-			{
-				"layout": 1,
-				"buttontext": "DONACIONES",
-				"imageurl": "https://i.imgur.com/CBrt8r1.png",
-				"content": [
-					{
-						"title": "Donaciones Frontera Hispana",
-						"text": "<TextStyle.LightBlue>Donaciones Frontera Hispana:</>\r\n\r\n<TextStyle.LightBlue>1. Donación mediante PayPal:</>\r\nPasos para los jugadores:\r\nRealiza tu donación en PayPal utilizando el botón PAYPAL de la parte inferior.\r\nToma una captura de pantalla del pago realizado.\r\n\r\nAbre un ticket en nuestro Discord e incluye:\r\nTu EOSID (puedes obtenerlo manteniendo pulsada la tecla R y seleccionando la opción EOS ID HELPER).\r\nEl mapa donde juegas: Primal Nemesis.\r\nLa cantidad de puntos a recibir (según la donación).\r\nUn administrador revisará el ticket y añadirá tus puntos lo antes posible.\r\n¡Gracias por apoyar nuestro servidor!\r\n\r\n\r\n<TextStyle.LightBlue>2. Donación mediante Bizum:</>\r\nPasos para los jugadores:\r\nRealiza un pago mediante Bizum al número: 601265252\r\nSi estás fuera de España, agrega el código del país: +34 601265252.\r\nToma una captura de pantalla del pago realizado.\r\n\r\nAbre un ticket en nuestro Discord e incluye:\r\nTu EOSID (puedes obtenerlo manteniendo pulsada la tecla R y seleccionando la opción EOS ID HELPER).\r\nEl mapa donde juegas: Primal Nemesis.\r\nLa cantidad de puntos a recibir (según el monto donado).\r\nUn administrador revisará el ticket y añadirá tus puntos lo antes posible.\r\n¡Gracias por tu contribución!\r\n\r\n\r\n<TextStyle.LightBlue>3. Donación automática mediante Tebex:</>\r\nSi deseas acelerar tu progreso, puedes comprar créditos de forma automática sin necesidad de interactuar con un administrador.\r\n\r\nPrecios de las monedas:\r\n1000 Créditos por 5.00 EUR\r\n3000 Créditos por 12.50 EUR\r\n5000 Créditos por 22.00 EUR\r\n10000 Créditos por 38.00 EUR\r\n\r\nPara utilizar este método:\r\nHaz clic en el botón ADQUIRIR CREDITOS ubicado en la parte inferior de este menú.\r\nAl realizar la compra, recibirás un código único, similar a este:\r\ntbx-70332224a63202-2169b8.\r\n\r\nPara canjear tus créditos:\r\nEscribe el siguiente comando en el chat del juego:\r\n/redeem seguido del código que recibiste.\r\nEjemplo:\r\n/redeem tbx-70332224a63202-2169b8  \r\n"
-					}
-				]
-			},
-			{
-				"layout": 1,
-				"buttontext": "TIENDA INGAME",
-				"imageurl": "https://i.imgur.com/AUN5oHa.png",
-				"content": [
-					{
-						"title": "INFO TIENDA INGAME",
-						"text": "La Tienda In-Game en Frontera Hispana te permite obtener y utilizar puntos para mejorar tu experiencia de juego. Aquí te explicamos cómo funciona:\r\n\r\nPuedes abrir la tienda In-Game con la tecla F2, manteniendo la tecla R presionada. \r\n<TextStyle.LightBlue>Para usar la tienda en consolas revisad el apartado AYUDA TIENDA</>\r\n\r\n¿Cómo Ganas Puntos?\r\nPuntos por Tiempo de Juego: Ganas 5 puntos automáticamente por cada hora que juegas en el servidor. ¡Solo tienes que disfrutar del juego y tus puntos se acumularán!\r\n(Si te sales del servidor antes de que te aparezca el mensaje de que has recibido puntos, el tiempo transcurrido se reinicia ya que el juego detecta que no has completado la hora de juego).\r\n\r\nCompra de Puntos:\r\nSi deseas acelerar tu progreso, puedes comprar puntos adicionales. Los paquetes de puntos están disponibles para ayudarte a conseguir recompensas especiales más rápidamente.\r\nNota: Al realizar una compra, recibirás un código único como este: tbx-70332224a63202-2169b8.\r\nPara reclamar tus puntos, debes escribir en el chat del juego el comando /redeem seguido del código recibido. Por ejemplo:\r\n    /redeem tbx-70332224a63202-2169b8\r\n\r\n\r\n¿Qué Puedes Hacer con los Puntos?\r\nCompra de Ítems y Recompensas: En la tienda, puedes usar tus puntos para obtener ítems especiales, recursos, dinos, y otros beneficios que te ayudarán en tu aventura.\r\n\r\nRecuerda: ¡Los puntos se otorgan por tiempo de juego, así que mientras más juegas, más beneficios puedes acumular!\r\n"
-					},
-					{
-						"title": "TIENDA INGAME CONSOLAS",
-						"text": ""
-					}
-				]
-			},
+{
+    "layout": 1,
+    "buttontext": "DONACIONES & TIENDA INGAME",
+    "imageurl": "https://i.imgur.com/CBrt8r1.png",
+    "content": [
+        {
+            "title": "Donaciones & Tienda Ingame - Frontera Hispana",
+            "text": "<TextStyle.LightBlue>¿Cómo apoyar el servidor y progresar más rápido?</>\r\n\r\nPuedes obtener puntos para la Tienda Ingame de las siguientes formas:\r\n\r\n<TextStyle.LightBlue>1️⃣ Jugando:</>\r\nObtén puntos automáticamente por cada hora que juegas en el servidor (5 puntos/hora por defecto, más con VIP). ¡Disfruta mientras progresas!\r\n\r\n<TextStyle.LightBlue>2️⃣ Votando:</>\r\nVota por el servidor al menos 25 días al mes y recibirás 500 puntos adicionales como agradecimiento por apoyar la comunidad.\r\n\r\n<TextStyle.LightBlue>3️⃣ Donaciones con PayPal y Bizum:</>\r\nPuedes apoyar al servidor y recibir puntos adicionales realizando donaciones:\r\n\r\n• **PayPal:** Usa el botón **PAYPAL** al final de este menú, realiza tu donación y toma una captura de pantalla del pago.\r\n\r\n• **Bizum:** Realiza el pago al número **+34 601265252** y toma una captura de pantalla del pago.\r\n\r\nLuego abre un **ticket en nuestro Discord** e indica:\r\n• Tu nombre de jugador.\r\n• El mapa donde juegas.\r\n• El monto donado.\r\n\r\nUn administrador revisará el ticket y añadirá tus puntos lo antes posible.\r\n\r\n<TextStyle.LightBlue>Precios de referencia:</>\r\n1000 Créditos por 5.00 EUR\r\n3000 Créditos por 12.50 EUR\r\n5000 Créditos por 22.00 EUR\r\n10000 Créditos por 38.00 EUR\r\n\r\n<TextStyle.LightBlue>¿Cómo abrir la Tienda Ingame?</>\r\n• Pulsa **F2** o mantén **R** para abrir el menú de la tienda mientras juegas.\r\n\r\n<TextStyle.LightBlue>¿Qué puedes comprar?</>\r\n• Ítems exclusivos, recursos, dinos de nivel alto y otros beneficios.\r\n• Algunos objetos especiales de alto valor requieren esfuerzo y dedicación para mantener el balance del servidor (como ese \"artefacto que hace que tus dinos sientan que pueden digievolucionar\" 👀).\r\n\r\n✨ ¡Gracias por apoyar Frontera Hispana y disfrutar de tu aventura en ARK Survival Ascended! ✨"
+        }
+    ]
+},
+
 			{
 				"layout": 1,
 				"buttontext": "AYUDA TIENDA",
