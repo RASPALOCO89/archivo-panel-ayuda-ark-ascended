@@ -1,0 +1,55 @@
+{
+  "WBUI2": {
+    "settings": {
+      "openbutton": 0,
+      "hideicon": true,
+      "hideiconafter": 60,
+      "iconurl": "https://i.imgur.com/EXuS9dP.png",
+      "disableicontext": true,
+      "iconposition": 0,
+      "icontextcolor": 0,
+      "openonstart": true,
+      "openonstartonlynewplayers": false,
+      "updateinterval": 12
+    },
+    "tabs": [
+      {
+        "layout": 1,
+        "buttontext": "INFORMACIÓN PVP",
+        "imageurl": "https://i.imgur.com/lwxOuGq.png",
+        "content": [
+          {
+            "title": "SERVIDOR PVP ANÁRQUICO / DESATENDIDO",
+            "text": "<TextStyle.LightBlue>¡BIENVENIDO A FRONTERA HISPANA PVP!</>\r\n\r\nEste es un servidor **PVP Desatendido** bajo modalidad **Anárquica**.\r\n\r\n<TextStyle.LightBlue>REGLAS PRINCIPALES:</>\r\n• **Sin Reglas de Ley:** Todo está permitido dentro de las mecánicas del juego (raideos, alianzas, traiciones, campeo, etc.).\r\n• **Autogestión:** La administración NO intervendrá en disputas entre jugadores, robos, pérdida de dinos u objetos.\r\n\r\n<TextStyle.LightBlue>ÚNICA EXCEPCIÓN DE SOPORTE (TICKETS):</>\r\nSolo se atenderán tickets de soporte exclusivamente para reportar **MESHING** o explotación grave de bugs que vulneren el mapa.\r\n• Todo ticket no relacionado con meshing será cerrado automáticamente.\r\n\r\n¡Sobrevive, domina y juega bajo tu propio riesgo!"
+          }
+        ]
+      },
+      {
+        "layout": 1,
+        "buttontext": "TIENDA & SOPORTE",
+        "imageurl": "https://i.imgur.com/AUN5oHa.png",
+        "content": [
+          {
+            "title": "TIENDA INGAME Y COMANDOS",
+            "text": "Accede a la tienda In-Game presionando **F3**, manteniendo **R**, o **Cuadrado** en consola.\r\n\r\n<TextStyle.LightBlue>Comandos de Chat para Consolas:</>\r\n• **/tienda [página]** - Muestra los objetos disponibles.\r\n• **/comprar [ID] [cantidad]** - Compra un artículo.\r\n• **/kit** - Lista de kits disponibles.\r\n• **/comprarkit [nombre] [cantidad]** - Adquiere un kit.\r\n• **/creditos** - Consulta tu saldo de puntos."
+          }
+        ]
+      }
+    ],
+    "links": [
+      {
+        "text": "Discord",
+        "url": "https://discord.gg/AQ5nNSYpaE"
+      },
+      {
+        "text": "Pagina Web",
+        "url": "https://fronterahispana.org"
+      },
+      {
+        "text": "Membresía VIP",
+        "url": "https://fronterahispana.org/donaciones/membresia_vip.html"
+      }
+    ],
+    "version": 2
+  }
+}
